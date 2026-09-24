@@ -226,7 +226,7 @@ export default function Portfolio() {
               title="Vulnerability Scanning & Assessment"
               description="Automated vulnerability scanning across multiple client environments using industry tools. Prioritized findings by risk level and provided remediation guidance."
               tags={["Nessus", "OpenVAS", "Qualys", "Risk Assessment"]}
-              image="/vuln_scan.png"
+              image="/stalker.png"
               demoUrl="#"
               repoUrl="#"
             />
