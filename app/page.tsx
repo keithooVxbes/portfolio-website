@@ -223,12 +223,12 @@ export default function Portfolio() {
               repoUrl="#"
             />
             <ProjectCard
-              title="Vulnerability Scanning & Assessment"
-              description="Automated vulnerability scanning across multiple client environments using industry tools. Prioritized findings by risk level and provided remediation guidance."
-              tags={["Nessus", "OpenVAS", "Qualys", "Risk Assessment"]}
+              title="Stalker"
+              description="A tool that shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location, etc"
+              tags={["FastAPI", "Nginx", "Python", "Docker"]}
               image="/stalker.png"
               demoUrl="#"
-              repoUrl="#"
+              repoUrl="https://github.com/keithooVxbes/stalker"
             />
             <ProjectCard
               title="PT KPC Internship Website Portal"
