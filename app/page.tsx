@@ -215,11 +215,13 @@ export default function Portfolio() {
               repoUrl="#"
             />
             <ProjectCard
-              title="Social Engineering Awareness Simulation"
-              description="A controlled phishing simulation project focused on understanding human security risks and improving security awareness."
-              tags={["Social Engineering", "Phishing", "OSINT"]}
-              image="/ss4.png"
-              demoUrl="#"
+              title="Nira - Fullstack Productivity App"
+              description="Nira is a multi-user SaaS productivity application designed to help students manage their academic activities and personal finances in one unified workspace. The application provides personal notes management, schedule organization, assignment tracking, and cashflow monitoring with interactive dashboard visualization.
+
+Built with modern fullstack architecture, Nira implements secure authentication, cloud database synchronization, responsive user interface, and scalable user-based data management to deliver a seamless productivity experience across devices."
+              tags={["Next.js", "Supabase", "PostgreSQL", "SaaS"]}
+              image="/nira-dashboard.png"
+              demoUrl="https://nira-productivity.vercel.app"
               repoUrl="#"
             />
             <ProjectCard
