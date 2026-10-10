@@ -216,11 +216,9 @@ export default function Portfolio() {
             />
             <ProjectCard
               title="Nira - Fullstack Productivity App"
-              description="Nira is a multi-user SaaS productivity application designed to help students manage their academic activities and personal finances in one unified workspace. The application provides personal notes management, schedule organization, assignment tracking, and cashflow monitoring with interactive dashboard visualization.
-
-Built with modern fullstack architecture, Nira implements secure authentication, cloud database synchronization, responsive user interface, and scalable user-based data management to deliver a seamless productivity experience across devices."
+              description="Nira is a multi-user SaaS productivity application designed to help students manage their academic activities and personal finances in one unified workspace. The application provides personal notes management, schedule organization, assignment tracking, and cashflow monitoring with interactive dashboard visualization"
               tags={["Next.js", "Supabase", "PostgreSQL", "SaaS"]}
-              image="/nira-dashboard.png"
+              image="/pictures/nira_screenshot.jpeg"
               demoUrl="https://nira-productivity.vercel.app"
               repoUrl="#"
             />
